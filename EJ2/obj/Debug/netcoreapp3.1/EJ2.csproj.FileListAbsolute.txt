@@ -1,0 +1,55 @@
+C:\Users\LENOVO\source\repos\EJ2.1\EJ2\bin\Debug\netcoreapp3.1\EJ2.exe
+C:\Users\LENOVO\source\repos\EJ2.1\EJ2\bin\Debug\netcoreapp3.1\EJ2.deps.json
+C:\Users\LENOVO\source\repos\EJ2.1\EJ2\bin\Debug\netcoreapp3.1\EJ2.runtimeconfig.json
+C:\Users\LENOVO\source\repos\EJ2.1\EJ2\bin\Debug\netcoreapp3.1\EJ2.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\EJ2.1\EJ2\bin\Debug\netcoreapp3.1\EJ2.dll
+C:\Users\LENOVO\source\repos\EJ2.1\EJ2\bin\Debug\netcoreapp3.1\EJ2.pdb
+C:\Users\LENOVO\source\repos\EJ2.1\EJ2\obj\Debug\netcoreapp3.1\EJ2.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\EJ2.1\EJ2\obj\Debug\netcoreapp3.1\EJ2.Form1.resources
+C:\Users\LENOVO\source\repos\EJ2.1\EJ2\obj\Debug\netcoreapp3.1\EJ2.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\EJ2.1\EJ2\obj\Debug\netcoreapp3.1\EJ2.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\EJ2.1\EJ2\obj\Debug\netcoreapp3.1\EJ2.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\EJ2.1\EJ2\obj\Debug\netcoreapp3.1\EJ2.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\EJ2.1\EJ2\obj\Debug\netcoreapp3.1\EJ2.dll
+C:\Users\LENOVO\source\repos\EJ2.1\EJ2\obj\Debug\netcoreapp3.1\EJ2.pdb
+C:\Users\LENOVO\source\repos\EJ2.1\EJ2\obj\Debug\netcoreapp3.1\EJ2.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\EJ2.1\EJ2\obj\Debug\netcoreapp3.1\EJ2.Properties.Resources.resources
+C:\Users\LENOVO\Documents\facu\8.1er semestre 2021\PROGRAMACION ORIETADA A OBJETO (postgrado)\TP8\EJ2.1\EJ2\bin\Debug\netcoreapp3.1\EJ2.exe
+C:\Users\LENOVO\Documents\facu\8.1er semestre 2021\PROGRAMACION ORIETADA A OBJETO (postgrado)\TP8\EJ2.1\EJ2\bin\Debug\netcoreapp3.1\EJ2.deps.json
+C:\Users\LENOVO\Documents\facu\8.1er semestre 2021\PROGRAMACION ORIETADA A OBJETO (postgrado)\TP8\EJ2.1\EJ2\bin\Debug\netcoreapp3.1\EJ2.runtimeconfig.json
+C:\Users\LENOVO\Documents\facu\8.1er semestre 2021\PROGRAMACION ORIETADA A OBJETO (postgrado)\TP8\EJ2.1\EJ2\bin\Debug\netcoreapp3.1\EJ2.runtimeconfig.dev.json
+C:\Users\LENOVO\Documents\facu\8.1er semestre 2021\PROGRAMACION ORIETADA A OBJETO (postgrado)\TP8\EJ2.1\EJ2\bin\Debug\netcoreapp3.1\EJ2.dll
+C:\Users\LENOVO\Documents\facu\8.1er semestre 2021\PROGRAMACION ORIETADA A OBJETO (postgrado)\TP8\EJ2.1\EJ2\bin\Debug\netcoreapp3.1\EJ2.pdb
+C:\Users\LENOVO\Documents\facu\8.1er semestre 2021\PROGRAMACION ORIETADA A OBJETO (postgrado)\TP8\EJ2.1\EJ2\obj\Debug\netcoreapp3.1\EJ2.Properties.Resources.resources
+C:\Users\LENOVO\Documents\facu\8.1er semestre 2021\PROGRAMACION ORIETADA A OBJETO (postgrado)\TP8\EJ2.1\EJ2\obj\Debug\netcoreapp3.1\EJ2.csproj.GenerateResource.cache
+C:\Users\LENOVO\Documents\facu\8.1er semestre 2021\PROGRAMACION ORIETADA A OBJETO (postgrado)\TP8\EJ2.1\EJ2\obj\Debug\netcoreapp3.1\EJ2.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Documents\facu\8.1er semestre 2021\PROGRAMACION ORIETADA A OBJETO (postgrado)\TP8\EJ2.1\EJ2\obj\Debug\netcoreapp3.1\EJ2.AssemblyInfo.cs
+C:\Users\LENOVO\Documents\facu\8.1er semestre 2021\PROGRAMACION ORIETADA A OBJETO (postgrado)\TP8\EJ2.1\EJ2\obj\Debug\netcoreapp3.1\EJ2.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\facu\8.1er semestre 2021\PROGRAMACION ORIETADA A OBJETO (postgrado)\TP8\EJ2.1\EJ2\obj\Debug\netcoreapp3.1\EJ2.dll
+C:\Users\LENOVO\Documents\facu\8.1er semestre 2021\PROGRAMACION ORIETADA A OBJETO (postgrado)\TP8\EJ2.1\EJ2\obj\Debug\netcoreapp3.1\EJ2.pdb
+C:\Users\LENOVO\Documents\facu\8.1er semestre 2021\PROGRAMACION ORIETADA A OBJETO (postgrado)\TP8\EJ2.1\EJ2\obj\Debug\netcoreapp3.1\EJ2.genruntimeconfig.cache
+C:\Users\LENOVO\Documents\facu\8.1er semestre 2021\PROGRAMACION ORIETADA A OBJETO (postgrado)\TP8\EJ2.1\EJ2\obj\Debug\netcoreapp3.1\EJ2.FormNuevaTarea.resources
+C:\Users\LENOVO\Documents\facu\8.1er semestre 2021\PROGRAMACION ORIETADA A OBJETO (postgrado)\TP8\EJ2.1\EJ2\obj\Debug\netcoreapp3.1\EJ2.FormAgenda.resources
+C:\Users\LENOVO\Documents\facu\8.1er semestre 2021\PROGRAMACION ORIETADA A OBJETO (postgrado)\TP8\EJ2.1\EJ2\obj\Debug\netcoreapp3.1\EJ2.FormConfig.resources
+C:\Users\LENOVO\Documents\facu\8.1er semestre 2021\PROGRAMACION ORIETADA A OBJETO (postgrado)\TP8\EJ2.1\EJ2\obj\Debug\netcoreapp3.1\EJ2.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\facu\8.1er semestre 2021\PROGRAMACION ORIETADA A OBJETO (postgrado)\TP8\EJ2.1\EJ2\obj\Debug\netcoreapp3.1\EJ2.FormAlmanaque.resources
+C:\Users\nyko-\Documentos\ProyectosGit\Organizador_AgendaDeTareas\EJ2\bin\Debug\netcoreapp3.1\EJ2.exe
+C:\Users\nyko-\Documentos\ProyectosGit\Organizador_AgendaDeTareas\EJ2\bin\Debug\netcoreapp3.1\EJ2.deps.json
+C:\Users\nyko-\Documentos\ProyectosGit\Organizador_AgendaDeTareas\EJ2\bin\Debug\netcoreapp3.1\EJ2.runtimeconfig.json
+C:\Users\nyko-\Documentos\ProyectosGit\Organizador_AgendaDeTareas\EJ2\bin\Debug\netcoreapp3.1\EJ2.runtimeconfig.dev.json
+C:\Users\nyko-\Documentos\ProyectosGit\Organizador_AgendaDeTareas\EJ2\bin\Debug\netcoreapp3.1\EJ2.dll
+C:\Users\nyko-\Documentos\ProyectosGit\Organizador_AgendaDeTareas\EJ2\bin\Debug\netcoreapp3.1\EJ2.pdb
+C:\Users\nyko-\Documentos\ProyectosGit\Organizador_AgendaDeTareas\EJ2\obj\Debug\netcoreapp3.1\EJ2.csproj.AssemblyReference.cache
+C:\Users\nyko-\Documentos\ProyectosGit\Organizador_AgendaDeTareas\EJ2\obj\Debug\netcoreapp3.1\EJ2.FormAgenda.resources
+C:\Users\nyko-\Documentos\ProyectosGit\Organizador_AgendaDeTareas\EJ2\obj\Debug\netcoreapp3.1\EJ2.FormAlmanaque.resources
+C:\Users\nyko-\Documentos\ProyectosGit\Organizador_AgendaDeTareas\EJ2\obj\Debug\netcoreapp3.1\EJ2.FormConfig.resources
+C:\Users\nyko-\Documentos\ProyectosGit\Organizador_AgendaDeTareas\EJ2\obj\Debug\netcoreapp3.1\EJ2.FormNuevaTarea.resources
+C:\Users\nyko-\Documentos\ProyectosGit\Organizador_AgendaDeTareas\EJ2\obj\Debug\netcoreapp3.1\EJ2.Properties.Resources.resources
+C:\Users\nyko-\Documentos\ProyectosGit\Organizador_AgendaDeTareas\EJ2\obj\Debug\netcoreapp3.1\EJ2.csproj.GenerateResource.cache
+C:\Users\nyko-\Documentos\ProyectosGit\Organizador_AgendaDeTareas\EJ2\obj\Debug\netcoreapp3.1\EJ2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nyko-\Documentos\ProyectosGit\Organizador_AgendaDeTareas\EJ2\obj\Debug\netcoreapp3.1\EJ2.AssemblyInfoInputs.cache
+C:\Users\nyko-\Documentos\ProyectosGit\Organizador_AgendaDeTareas\EJ2\obj\Debug\netcoreapp3.1\EJ2.AssemblyInfo.cs
+C:\Users\nyko-\Documentos\ProyectosGit\Organizador_AgendaDeTareas\EJ2\obj\Debug\netcoreapp3.1\EJ2.csproj.CoreCompileInputs.cache
+C:\Users\nyko-\Documentos\ProyectosGit\Organizador_AgendaDeTareas\EJ2\obj\Debug\netcoreapp3.1\EJ2.dll
+C:\Users\nyko-\Documentos\ProyectosGit\Organizador_AgendaDeTareas\EJ2\obj\Debug\netcoreapp3.1\EJ2.pdb
+C:\Users\nyko-\Documentos\ProyectosGit\Organizador_AgendaDeTareas\EJ2\obj\Debug\netcoreapp3.1\EJ2.genruntimeconfig.cache
